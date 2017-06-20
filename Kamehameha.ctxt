@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Kamehameha
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ fireBall\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Kamehameha()
+comment2.params=goku
+comment2.target=Kamehameha(Goku)
+comment2.text=\r\n\ Kamehameha\ will\ cunstuct\ a\ Kamehameha\ wave\ to\ scale\ \r\n\ @param\ There\ is\ no\ paramters\r\n\ @return\ fireBall\ is\ returned\ \r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ act\ handles\ the\ actions\ must\ be\ taken\ everytime\ the\ program\ is\ run\ also\ the\ act\ will\ make\ the\ Kamehameha\ wave\ extend\ longer\ when\ fired.\r\n\ @param\ There\ is\ no\ paramters\r\n\ @return\ Nothing\ is\ returned\ \r\n
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\r\n\ move\ will\ make\ the\ Kamehameha\ move\ in\ the\ proper\ direaction\ \ \ \r\n\ @param\ There\ is\ no\ paramters\r\n\ @return\ Nothing\ is\ returned\ \r\n
+numComments=5
